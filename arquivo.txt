@@ -1,5 +1,3 @@
-qualquer coisa
+editei meu arquivo, socoro
 
-^x a exit -asdasdasave
-^X
 
